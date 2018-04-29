@@ -1,0 +1,29 @@
+dependencies: \
+  /Users/thang.phan/Documents/dev/ToiletServce/node_modules/react-native/React/DevSupport/RCTPackagerConnection.m \
+  /Users/thang.phan/Documents/dev/ToiletServce/node_modules/react-native/React/DevSupport/RCTPackagerConnection.h \
+  /Users/thang.phan/Documents/dev/ToiletServce/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/thang.phan/Documents/dev/ToiletServce/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/thang.phan/Documents/dev/ToiletServce/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/thang.phan/Documents/dev/ToiletServce/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/thang.phan/Documents/dev/ToiletServce/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/thang.phan/Documents/dev/ToiletServce/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/thang.phan/Documents/dev/ToiletServce/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/thang.phan/Documents/dev/ToiletServce/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/thang.phan/Documents/dev/ToiletServce/node_modules/react-native/React/Base/RCTBundleURLProvider.h \
+  /Users/thang.phan/Documents/dev/ToiletServce/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/thang.phan/Documents/dev/ToiletServce/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/thang.phan/Documents/dev/ToiletServce/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/thang.phan/Documents/dev/ToiletServce/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/thang.phan/Documents/dev/ToiletServce/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/thang.phan/Documents/dev/ToiletServce/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/thang.phan/Documents/dev/ToiletServce/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/thang.phan/Documents/dev/ToiletServce/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/thang.phan/Documents/dev/ToiletServce/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/thang.phan/Documents/dev/ToiletServce/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/thang.phan/Documents/dev/ToiletServce/node_modules/react-native/React/../Libraries/WebSocket/RCTReconnectingWebSocket.h \
+  /Users/thang.phan/Documents/dev/ToiletServce/node_modules/react-native/React/../Libraries/WebSocket/RCTSRWebSocket.h \
+  /Users/thang.phan/Documents/dev/ToiletServce/node_modules/react-native/React/DevSupport/RCTPackagerConnectionBridgeConfig.h \
+  /Users/thang.phan/Documents/dev/ToiletServce/node_modules/react-native/React/DevSupport/RCTPackagerConnectionConfig.h \
+  /Users/thang.phan/Documents/dev/ToiletServce/node_modules/react-native/React/DevSupport/RCTReloadPackagerMethod.h \
+  /Users/thang.phan/Documents/dev/ToiletServce/node_modules/react-native/React/DevSupport/RCTPackagerClient.h \
+  /Users/thang.phan/Documents/dev/ToiletServce/node_modules/react-native/React/DevSupport/RCTSamplingProfilerPackagerMethod.h
