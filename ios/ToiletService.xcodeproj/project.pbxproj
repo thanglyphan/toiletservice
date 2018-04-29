@@ -41,7 +41,6 @@
 		5E9157361DD0AC6A00FF2AA8 /* libRCTAnimation.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5E9157331DD0AC6500FF2AA8 /* libRCTAnimation.a */; };
 		6943C6C9812D4D5B8454F506 /* SourceSansPro-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 518DB6F9ED2444119A4C9EEE /* SourceSansPro-Regular.ttf */; };
 		832341BD1AAA6AB300B99B32 /* libRCTText.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 832341B51AAA6A8300B99B32 /* libRCTText.a */; };
-		A2C522648539408AAFEFCD55 /* Style-Thief.otf in Resources */ = {isa = PBXBuildFile; fileRef = C01CC259DD6740E39FC60C4B /* Style-Thief.otf */; };
 		ADBDB9381DFEBF1600ED6528 /* libRCTBlob.a in Frameworks */ = {isa = PBXBuildFile; fileRef = ADBDB9271DFEBF0700ED6528 /* libRCTBlob.a */; };
 /* End PBXBuildFile section */
 
@@ -352,7 +351,6 @@
 		95E236526E347A1CD64CA989 /* Pods-ToiletService-tvOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ToiletService-tvOS.release.xcconfig"; path = "Pods/Target Support Files/Pods-ToiletService-tvOS/Pods-ToiletService-tvOS.release.xcconfig"; sourceTree = "<group>"; };
 		A3E90AF0FC58C56DC0D2F373 /* Pods-ToiletService.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ToiletService.release.xcconfig"; path = "Pods/Target Support Files/Pods-ToiletService/Pods-ToiletService.release.xcconfig"; sourceTree = "<group>"; };
 		ADBDB91F1DFEBF0600ED6528 /* RCTBlob.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTBlob.xcodeproj; path = "../node_modules/react-native/Libraries/Blob/RCTBlob.xcodeproj"; sourceTree = "<group>"; };
-		C01CC259DD6740E39FC60C4B /* Style-Thief.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Style-Thief.otf"; path = "../app/assets/fonts/Style-Thief.otf"; sourceTree = "<group>"; };
 		E8D9B96318F94C83B7C7262C /* SourceSansPro-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "SourceSansPro-Bold.ttf"; path = "../app/assets/fonts/SourceSansPro-Bold.ttf"; sourceTree = "<group>"; };
 		EA56D8F3E7041C9C436DD527 /* libPods-ToiletService.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-ToiletService.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		F565E2C0EBC0D2DCACA648CB /* Pods-ToiletService.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ToiletService.debug.xcconfig"; path = "Pods/Target Support Files/Pods-ToiletService/Pods-ToiletService.debug.xcconfig"; sourceTree = "<group>"; };
@@ -548,7 +546,6 @@
 			isa = PBXGroup;
 			children = (
 				94895B0A01FE47E9BAB26592 /* SourceSansPro-Light.ttf */,
-				C01CC259DD6740E39FC60C4B /* Style-Thief.otf */,
 				E8D9B96318F94C83B7C7262C /* SourceSansPro-Bold.ttf */,
 				518DB6F9ED2444119A4C9EEE /* SourceSansPro-Regular.ttf */,
 			);
@@ -1092,7 +1089,6 @@
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
 				13B07FBD1A68108700A75B9A /* LaunchScreen.xib in Resources */,
 				5BACFC9C106A4F95B0DAF99C /* SourceSansPro-Light.ttf in Resources */,
-				A2C522648539408AAFEFCD55 /* Style-Thief.otf in Resources */,
 				1BF771DB8A2A49BEAD725CD1 /* SourceSansPro-Bold.ttf in Resources */,
 				6943C6C9812D4D5B8454F506 /* SourceSansPro-Regular.ttf in Resources */,
 			);
